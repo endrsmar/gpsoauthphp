@@ -1,0 +1,12 @@
+{
+    "name": "anguinus/gpsoauthphp",
+    "description": "PHP port of gpsoauth python library https://github.com/simon-weber/gpsoauth/tree/master/gpsoauth",
+    "authors": [
+        {
+            "name": "Martin Endrst",
+            "email": "endrst.martin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
