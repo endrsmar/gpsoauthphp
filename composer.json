@@ -8,5 +8,12 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+		"php": ">=5.0.0"
+	},
+	"autoload": {
+		"psr-0": {
+			"GPSOAuthPHP": "src/"
+		}
+	}
 }
